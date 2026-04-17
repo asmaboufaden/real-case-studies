@@ -196,7 +196,7 @@ The interactive HTML dashboard (`outputs/NorthAfrica_ME_Dashboard.html`) contain
 
 **How to view locally:** Download `NorthAfrica_ME_Dashboard.html` and open it in any modern browser — no installation required.
 
-**How to view on GitHub:** See the [GitHub Pages section](#-how-to-run-the-dashboard-on-github-pages) below.
+**How to view on GitHub:**   
 https://asmaboufaden.github.io/real-case-studies/Health_Governance_NorthAfrica/outputs/NorthAfrica_ME_Dashboard.html
 
 ---
@@ -213,11 +213,6 @@ GitHub cannot render `.html` files directly in the browser from a standard repos
 4. Choose branch: `main` · folder: `/ (root)` → click **Save**
 5. Wait ~2 minutes — GitHub will display a live URL:   
    `https://asmaboufaden.github.io/real-case-studies/Health_Governance_NorthAfrica/outputs/NorthAfrica_ME_Dashboard.html`
-
-**Alternative — nbviewer for notebooks:**
-To render Jupyter notebooks directly: `https://nbviewer.org/github/asmaboufaden/real-case-studies/blob/main/Health_Governance_NorthAfrica/notebooks/ML_FAO_WB_WHO_v5.ipynb`
-
-> ⚠️ **Note:** GitHub Pages serves files from the repository root or `docs/` folder. If your HTML file is inside a subfolder (`outputs/`), the full path must be included in the URL as shown above.
 
 ---
 
