@@ -211,7 +211,7 @@ GitHub cannot render `.html` files directly in the browser from a standard repos
 2. Scroll down to **Pages** (left sidebar)
 3. Under **Source**, select `Deploy from a branch`
 4. Choose branch: `main` · folder: `/ (root)` → click **Save**
-5. Wait ~2 minutes — GitHub will display a live URL:
+5. Wait ~2 minutes — GitHub will display a live URL:   
    `https://asmaboufaden.github.io/real-case-studies/Health_Governance_NorthAfrica/outputs/NorthAfrica_ME_Dashboard.html`
 
 **Alternative — nbviewer for notebooks:**
