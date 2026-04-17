@@ -39,7 +39,7 @@ Health_Governance_NorthAfrica/
 │   ├── NorthAfrica_ME_Dashboard.html          # Interactive 4-page HTML dashboard
 │   ├── NorthAfrica_ME_PowerBI.xlsx            # Power BI data package (10 tabs + DAX measures)
 │   └── NorthAfrica_ME_KeyFindings.md          # Key findings & policy recommendations
-│
+│   └── README_dashboard.md                    # URL link to access the dashboard
 └── README.md
 ```
 
