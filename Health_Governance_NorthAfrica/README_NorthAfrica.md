@@ -197,6 +197,7 @@ The interactive HTML dashboard (`outputs/NorthAfrica_ME_Dashboard.html`) contain
 **How to view locally:** Download `NorthAfrica_ME_Dashboard.html` and open it in any modern browser — no installation required.
 
 **How to view on GitHub:** See the [GitHub Pages section](#-how-to-run-the-dashboard-on-github-pages) below.
+https://asmaboufaden.github.io/real-case-studies/Health_Governance_NorthAfrica/outputs/NorthAfrica_ME_Dashboard.html
 
 ---
 
