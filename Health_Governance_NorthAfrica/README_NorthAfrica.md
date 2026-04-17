@@ -271,7 +271,7 @@ The bias-variance diagnostic methodology is based on the approach demonstrated i
 ## 👩‍💼 Author
 
 **Asma Boufaden**
-M&E Specialist | Data Analyst
+M&E Specialist |
 📊 FAOSTAT · World Bank WGI · WHO
 🗺️ North Africa Regional Analysis
 
