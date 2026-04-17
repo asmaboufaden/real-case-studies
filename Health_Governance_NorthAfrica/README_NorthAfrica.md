@@ -231,7 +231,6 @@ pip install flaml               # Fast AutoML (Microsoft Research)
 ---
 
 ## 🚀 Usage
-
 ```bash
 # 1. Clone the repository
 git clone https://github.com/asmaboufaden/real-case-studies.git
@@ -243,10 +242,8 @@ jupyter notebook notebooks/EDA_FAO_WB_WHO.ipynb              # Step 2: explorati
 jupyter notebook notebooks/ML_FAO_WB_WHO_v5.ipynb            # Step 3: ML pipeline
 
 # 3. View the interactive dashboard
-open outputs/NorthAfrica_ME_Dashboard.html    # macOS
-start outputs/NorthAfrica_ME_Dashboard.html   # Windows
-```
-
+URL to access dashboard:
+https://asmaboufaden.github.io/real-case-studies/Health_Governance_NorthAfrica/outputs/NorthAfrica_ME_Dashboard.html
 ---
 
 ## 📝 Notes on Methodology
