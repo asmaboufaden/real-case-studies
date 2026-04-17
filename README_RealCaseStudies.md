@@ -42,7 +42,7 @@ Planned case study applying text mining, topic modelling, and evidence hierarchy
 
 ### More to come…
 
-Future case studies may include: gender-responsive budgeting analysis, food security early warning systems, conflict-sensitive programme evaluation, and social protection impact assessment.
+
 
 ---
 
@@ -114,7 +114,7 @@ All notebooks are self-contained and executable from raw data to final output. D
 ## 👩‍💼 Author
 
 **Asma Boufaden**
-M&E Specialist | Data Analyst | International Development
+M&E Specialist | International Development
 🌍 North Africa · Francophone Africa
 📊 FAOSTAT · World Bank · WHO · UN Data
 
