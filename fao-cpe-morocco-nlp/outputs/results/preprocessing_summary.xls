@@ -1,0 +1,11 @@
+Section,Tokens,Sentences,Unique tokens,Lexical density
+resume_executif,873,62,583,0.668
+introduction,1768,142,953,0.539
+contexte_pays,2094,119,1035,0.494
+fao_maroc_portfolio,635,41,340,0.535
+pertinence,2158,149,1046,0.485
+contributions_resultats,6352,412,2283,0.359
+effet_catalytique,2039,153,1025,0.503
+conclusions,1408,99,783,0.556
+recommandations,2032,165,1015,0.5
+annexes,1595,72,702,0.44
