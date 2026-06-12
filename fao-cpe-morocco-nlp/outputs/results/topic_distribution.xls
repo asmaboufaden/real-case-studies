@@ -1,0 +1,41 @@
+section,topic_id,topic_label,weight
+resume_executif,1,"Topic 1 — [Politiques sectorielles & Planification (rural, pêche, forêts, eau)]",0.0
+resume_executif,2,"Topic 2 — [Constatations — Capacités, formation & chaînes de valeur]",0.237
+resume_executif,3,Topic 3 — [Pertinence & Partenariats stratégiques],0.5454
+resume_executif,4,Topic 4 — [Méthodologie & Sécurité alimentaire régionale],0.2175
+introduction,1,"Topic 1 — [Politiques sectorielles & Planification (rural, pêche, forêts, eau)]",0.0
+introduction,2,"Topic 2 — [Constatations — Capacités, formation & chaînes de valeur]",0.0001
+introduction,3,Topic 3 — [Pertinence & Partenariats stratégiques],0.0
+introduction,4,Topic 4 — [Méthodologie & Sécurité alimentaire régionale],0.9999
+contexte_pays,1,"Topic 1 — [Politiques sectorielles & Planification (rural, pêche, forêts, eau)]",0.9999
+contexte_pays,2,"Topic 2 — [Constatations — Capacités, formation & chaînes de valeur]",0.0001
+contexte_pays,3,Topic 3 — [Pertinence & Partenariats stratégiques],0.0
+contexte_pays,4,Topic 4 — [Méthodologie & Sécurité alimentaire régionale],0.0
+fao_maroc_portfolio,1,"Topic 1 — [Politiques sectorielles & Planification (rural, pêche, forêts, eau)]",0.0001
+fao_maroc_portfolio,2,"Topic 2 — [Constatations — Capacités, formation & chaînes de valeur]",0.2816
+fao_maroc_portfolio,3,Topic 3 — [Pertinence & Partenariats stratégiques],0.0001
+fao_maroc_portfolio,4,Topic 4 — [Méthodologie & Sécurité alimentaire régionale],0.7182
+pertinence,1,"Topic 1 — [Politiques sectorielles & Planification (rural, pêche, forêts, eau)]",0.124
+pertinence,2,"Topic 2 — [Constatations — Capacités, formation & chaînes de valeur]",0.3982
+pertinence,3,Topic 3 — [Pertinence & Partenariats stratégiques],0.4623
+pertinence,4,Topic 4 — [Méthodologie & Sécurité alimentaire régionale],0.0155
+contributions_resultats,1,"Topic 1 — [Politiques sectorielles & Planification (rural, pêche, forêts, eau)]",0.0
+contributions_resultats,2,"Topic 2 — [Constatations — Capacités, formation & chaînes de valeur]",1.0
+contributions_resultats,3,Topic 3 — [Pertinence & Partenariats stratégiques],0.0
+contributions_resultats,4,Topic 4 — [Méthodologie & Sécurité alimentaire régionale],0.0
+effet_catalytique,1,"Topic 1 — [Politiques sectorielles & Planification (rural, pêche, forêts, eau)]",0.0
+effet_catalytique,2,"Topic 2 — [Constatations — Capacités, formation & chaînes de valeur]",0.9999
+effet_catalytique,3,Topic 3 — [Pertinence & Partenariats stratégiques],0.0
+effet_catalytique,4,Topic 4 — [Méthodologie & Sécurité alimentaire régionale],0.0
+conclusions,1,"Topic 1 — [Politiques sectorielles & Planification (rural, pêche, forêts, eau)]",0.0
+conclusions,2,"Topic 2 — [Constatations — Capacités, formation & chaînes de valeur]",0.1909
+conclusions,3,Topic 3 — [Pertinence & Partenariats stratégiques],0.809
+conclusions,4,Topic 4 — [Méthodologie & Sécurité alimentaire régionale],0.0001
+recommandations,1,"Topic 1 — [Politiques sectorielles & Planification (rural, pêche, forêts, eau)]",0.0
+recommandations,2,"Topic 2 — [Constatations — Capacités, formation & chaînes de valeur]",0.0001
+recommandations,3,Topic 3 — [Pertinence & Partenariats stratégiques],0.9999
+recommandations,4,Topic 4 — [Méthodologie & Sécurité alimentaire régionale],0.0
+annexes,1,"Topic 1 — [Politiques sectorielles & Planification (rural, pêche, forêts, eau)]",0.0
+annexes,2,"Topic 2 — [Constatations — Capacités, formation & chaînes de valeur]",0.0001
+annexes,3,Topic 3 — [Pertinence & Partenariats stratégiques],0.0001
+annexes,4,Topic 4 — [Méthodologie & Sécurité alimentaire régionale],0.9998

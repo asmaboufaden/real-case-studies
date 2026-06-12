@@ -1,0 +1,4 @@
+comparison,cosine_similarity
+Findings ↔ Conclusions,0.2297
+Findings ↔ Recommendations,0.0001
+Conclusions ↔ Recommendations,0.9733
